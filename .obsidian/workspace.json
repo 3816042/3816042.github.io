@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "09f8def749de89ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "ace1e1eea0c8bfd3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1b8ec429abf4446",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03.林高遠——能穩定連續擊球的中台反手拉球.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "03.林高遠——能穩定連續擊球的中台反手拉球"
+            }
+          },
+          {
+            "id": "45fbfd1f54c65be4",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "蝴蝶林高遠教學系列/為高速打法畫下句點的，彎曲軌跡的正手弧圈球/lgy06-04.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "lgy06-04"
+            }
+          }
+        ]
+      },
+      {
+        "id": "159c199e886be04a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27a9a560f3556de8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04.林高遠——引發速攻的高速擰球.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "04.林高遠——引發速攻的高速擰球"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "951fde1f36d29614",
+    "type": "split",
+    "children": [
+      {
+        "id": "9028aec85b987338",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "303715242ac78ec3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "檔案瀏覽器"
+            }
+          },
+          {
+            "id": "de09e956eaa72a5d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜尋"
+            }
+          },
+          {
+            "id": "2ffc526de1cfc92e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "書籤"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f076fd140d8dbc72",
+    "type": "split",
+    "children": [
+      {
+        "id": "026b5f0488d5c67c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2aaf47c44b6c273",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向連結"
+            }
+          },
+          {
+            "id": "ea09b5a3bc7251ac",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "對外連結"
+            }
+          },
+          {
+            "id": "33c2667484635411",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "標籤"
+            }
+          },
+          {
+            "id": "90eed9bf6692a678",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大綱"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:查看關聯圖": false,
+      "switcher:開啟快速切換": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "a1b8ec429abf4446",
+  "lastOpenFiles": [
+    "123.md",
+    "06.林高遠——為高速打法畫下句點的，彎曲軌跡的正手弧圈球.md",
+    "04.林高遠——引發速攻的高速擰球.md",
+    "未命名",
+    "05.林高遠——從中路施展側旋反手反擊，逼迫對手.md",
+    "03.林高遠——能穩定連續擊球的中台反手拉球.md",
+    "蝴蝶林高遠教學系列/為高速打法畫下句點的，彎曲軌跡的正手弧圈球/lgy06-04.jpg",
+    "蝴蝶林高遠教學系列/為高速打法畫下句點的，彎曲軌跡的正手弧圈球",
+    "蝴蝶林高遠教學系列/為高速打法畫下句點的，彎曲軌跡的正手弧圈球/lgy06-03.jpg",
+    "蝴蝶林高遠教學系列/為高速打法畫下句點的，彎曲軌跡的正手弧圈球/lgy06-02.jpg",
+    "蝴蝶林高遠教學系列/為高速打法畫下句點的，彎曲軌跡的正手弧圈球/lgy06-01.jpg",
+    "蝴蝶林高遠教學系列/為高速打法畫下句點的，彎曲軌跡的正手弧圈球/lgy06-00.jpg",
+    "蝴蝶林高遠教學系列/從中路施展側旋反手反擊，逼迫對手/lgy05-00.jpg",
+    "蝴蝶林高遠教學系列/從中路施展側旋反手反擊，逼迫對手/lgy05-05.jpg",
+    "蝴蝶林高遠教學系列/從中路施展側旋反手反擊，逼迫對手/lgy05-04.jpg",
+    "蝴蝶林高遠教學系列/從中路施展側旋反手反擊，逼迫對手/lgy05-03.jpg",
+    "蝴蝶林高遠教學系列/從中路施展側旋反手反擊，逼迫對手/lgy05-02.jpg",
+    "蝴蝶林高遠教學系列/從中路施展側旋反手反擊，逼迫對手",
+    "蝴蝶林高遠教學系列/引發速攻的高速擰球",
+    "02.林高遠——引以為傲世界第一精準度的前台反手反擊.md",
+    "01.林高遠——前台的高速反手拉球.md",
+    "蝴蝶林高遠教學系列/前台的高速反手拉球",
+    "蝴蝶林高遠教學系列/能穩定連續擊球的中台反手拉球",
+    "蝴蝶林高遠教學系列/引以為傲世界第一精準度的前台反手反擊",
+    "蝴蝶林高遠教學系列",
+    "歡迎.md"
+  ]
+}
